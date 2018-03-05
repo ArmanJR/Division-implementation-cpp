@@ -1,6 +1,6 @@
 # Division implementation cpp
 
-<p>How to do division without "/" sign? in other words how our computer do the divion? here is a solution.</p>
+<p>How to do division without "/" sign? in other words how our computer does the divion? here is my solution.</p>
 In this C++ code I used geometric series to calculate a/(1-q)<br>
 As you know, this is a geometric series:<br>
 a , aq , aq^2 , aq^3 , ...<br>
